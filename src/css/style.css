@@ -60,6 +60,14 @@ img {
   flex-grow: 1;
 }
 
+.delete-icon {
+  cursor: pointer;
+  color:blue;
+}
+
+.delete-icon:hover {
+  color:red;
+}
 
 
 /* RETINA */
